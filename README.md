@@ -5,7 +5,7 @@ Lamp from m5cardputer Stamp ESP32 S3.
 
 https://docs.m5stack.com/en/core/Cardputer
 
-## The appearance of the tic-tac-toe game on your device:
+## The appearance of the Lamp from M5Cardputer on your device:
 
 ![fot1](https://raw.githubusercontent.com/ZrutrA/Lamp-from-M5Cardputer/main/lamp-cardputer-1.jpg)
 ![fot2](https://raw.githubusercontent.com/ZrutrA/Lamp-from-M5Cardputer/main/lamp-cardputer-2.jpg)
