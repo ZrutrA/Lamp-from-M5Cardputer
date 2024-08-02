@@ -13,8 +13,11 @@ https://docs.m5stack.com/en/core/Cardputer
 ## Program control: 
 
 left: "," and right: "/" - change color
+
 up: ";" and down: "." - change light intensity
-"OK - enter" - confirm selection,
+
+"OK - enter" - confirm selection
+
 BACKSPACE - return to selection
 
 ## How to install a game from a .bin file?
