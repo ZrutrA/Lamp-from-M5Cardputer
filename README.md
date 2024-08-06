@@ -22,4 +22,4 @@ BACKSPACE - return to selection
 
 ## How to install a game from a .bin file?
 
-Open https://web.esphome.io/ in a browser that supports WebSerial (Google Chrome or Microsoft Edge). Click "Connect", select the appropriate port, click "Connect". Then click "Install", point to the tic-tac-toe-M5Cardputer.bin file and click "Install". Ready.
+Open https://web.esphome.io/ in a browser that supports WebSerial (Google Chrome or Microsoft Edge). Click "Connect", select the appropriate port, click "Connect". Then click "Install", point to the lamp-cardputer.bin file and click "Install". Ready.
